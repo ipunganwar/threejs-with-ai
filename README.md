@@ -10,3 +10,5 @@ In this project, i have used the following:
 - TailwindCSS - the most popular library CSS utility
 
 ## Screenshots
+![Screen Shot 2023-05-06 at 17 02 21](https://user-images.githubusercontent.com/4968801/236617652-c58ee1f5-52c6-474a-8519-1fbd6165bd6c.png)
+![Screen Shot 2023-05-06 at 17 02 36](https://user-images.githubusercontent.com/4968801/236617659-23c63fe2-c0a8-4c1a-bde9-51f6370bdd96.png)
