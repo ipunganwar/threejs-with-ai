@@ -1,5 +1,5 @@
 # Build and Deploy an AI-Powered 3D Website Using React
-## [Live Site Netlify]
+## [Live Site Vercel](https://threejs-with-ai.vercel.app/)
 
 ## Introduction
 Three.js is a powerful JavaScript library that allows developers to create and render 3D graphics in a web browser. With its intuitive API and extensive documentation, Three.js makes it easy to build complex 3D scenes, animations, and interactive experiences for the web.
